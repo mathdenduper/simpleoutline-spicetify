@@ -98,6 +98,14 @@
   border-radius: 0px 0px 10px 10px;
 }
 
+.main-topBar-background {
+  --background-base: #292c3c;
+}
+
+.main-trackList-trackListHeader main-trackList-trackListHeaderStuck {
+  background: #292c3c;
+}
+
 /*play button centering*/
 .player-controls__buttons {
   margin-bottom: 6px;
