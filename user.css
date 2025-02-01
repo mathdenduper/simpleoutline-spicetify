@@ -31,10 +31,9 @@
 }
 
 .Root__right-sidebar {
-  outline: 2px solid var(--spice-misc);
-  border-radius: 11px;
+  border: 2px solid var(--spice-misc);
+  border-radius: 10px;
   z-index: 9999;
-  background-color: var(--spice-main);
 }
 
 /*borders on all the cards*/
